@@ -22,3 +22,5 @@ Modular architecture with MVVM-style patterns
 The app is currently in active development — certain features like the Camera tab's full functionality are still being implemented.
 
 🔧 If a feature is marked "Coming Soon" in the UI, it's already on the roadmap.
+
+[![Visionary Demo](https://img.youtube.com/vi/jnqxCveq3Oo?si=htNka2lhVFyzFGev/0.jpg)](https://youtube.com/shorts/jnqxCveq3Oo?si=htNka2lhVFyzFGev)
