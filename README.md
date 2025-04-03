@@ -24,4 +24,5 @@ The app is currently in active development — certain features like the Camera 
 🔧 If a feature is marked "Coming Soon" in the UI, it's already on the roadmap.
 
 Click below to watch a demo of my app!
+
 [![Visionary Demo](https://img.youtube.com/vi/jnqxCveq3Oo?si=htNka2lhVFyzFGev/0.jpg)](https://youtube.com/shorts/jnqxCveq3Oo?si=htNka2lhVFyzFGev)
