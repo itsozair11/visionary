@@ -25,5 +25,4 @@ The app is currently in active development — certain features like the Camera 
 
 Click below to watch a demo of my app!
 
-[![Visionary Demo]
 [<img width="280" alt="Screenshot 2025-04-02 at 9 57 50 PM" src="https://github.com/user-attachments/assets/77fddf17-3f6d-45f8-a5d7-1f1aa45f9714" />](https://youtube.com/shorts/jnqxCveq3Oo?si=htNka2lhVFyzFGev)
